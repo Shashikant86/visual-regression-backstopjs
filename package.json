@@ -5,7 +5,7 @@
   "dependencies": {
     "phantomjs": "*",
     "casperjs" : "*",
-    "backstopjs": "*",
+    "backstopjs": "*"
   },
   "author": "shashikant.jagtap@aol.co.uk",
   "license": "MIT"
