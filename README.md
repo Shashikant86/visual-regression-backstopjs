@@ -18,7 +18,7 @@ Install NodeJS framework and following packages.
 
 * PhantomJS  
 
-         $ npm install -g phanomjs
+         $ npm install -g phantomjs
 
 
 ## Usage
