@@ -16,9 +16,9 @@ Install NodeJS framework and following packages.
          $ npm install -g casperjs
 
 
-* PhantomJS  
+* PhantomJS
 
-         $ npm install -g phanomjs
+         $ npm install -g phantomjs
 
 
 ## Usage
